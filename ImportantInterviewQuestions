@@ -1,0 +1,21 @@
+Djnago Developer Interview Questions Answers
+
+QuerySet Related Questions
+Mostly Asked Questions
+Commonly Asked Questions
+Advanced Questions
+
+QuerySet / Command Related Questions
+
+1) What is The Command To Install Django & To know about its Version?
+Command to Install Django : pip install django
+Command to Install Django Version : python -m django --version
+Command to Check all the versions of installed modules:
+pip freeze
+
+2) What is The Command to Create A Project & An App In Django?
+Command To Create A Project:django-admin startproject akanksha
+Command To Create An App: python manage.py startapp akanksha
+where akanksha is project name & akanksha is app name
+
+3)
